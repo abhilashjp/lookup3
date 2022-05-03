@@ -1,4 +1,5 @@
 module.exports = {
+ pathPrefix: "/lookup3",
   plugins: [
     {
       resolve: `gatsby-theme-codebushi`,
